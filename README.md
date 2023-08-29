@@ -1,3 +1,3 @@
 # restart-ranch
 
-Hosting Restart-Ranch's Website, designed with Teleport HQ. 
+static site files for restart ranch
